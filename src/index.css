@@ -1,0 +1,105 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'myfood';
+    src: url('../public/Relieve.ttf');
+}
+
+@font-face {
+    font-family: 'mylast';
+    src: url('../public/Outfit-VariableFont_wght.ttf');
+}
+
+body {
+    background: linear-gradient(53deg, #101a17, #6a6800, #191f20);
+    background-size: 600% 600%;
+
+    -webkit-animation: gradientEffect 22s ease infinite;
+    -moz-animation: gradientEffect 22s ease infinite;
+    animation: gradientEffect 22s ease infinite;
+}
+
+.myfont {
+    font-family: 'myfood';
+    /** TEXT GRADIENT */
+    color: #00bcd4;
+    background-image: -webkit-radial-gradient(circle, #00bcd4 0%, #ffeb3b 64%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5),
+        0 3px 5px rgba(0, 0, 0, 0.4),
+        0 5px 8px rgba(0, 0, 0, 0.3),
+        0 8px 10px rgba(0, 0, 0, 0.2);
+}
+
+.mylast {
+    font-family: 'mylast';
+    color: white;
+
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5),
+        0 3px 5px rgba(0, 0, 0, 0.4),
+        0 5px 8px rgba(0, 0, 0, 0.3),
+        0 8px 10px rgba(0, 0, 0, 0.2);
+
+}
+
+.icons-colors {   
+    background-image: -webkit-radial-gradient(circle, #00bcd4 0%, #ffeb3b 94%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5),
+        0 3px 5px rgba(0, 0, 0, 0.4),
+        0 5px 8px rgba(0, 0, 0, 0.3),
+        0 8px 10px rgba(0, 0, 0, 0.2);
+    color: #00bcd4;
+}
+
+
+@-webkit-keyframes gradientEffect {
+    0% {
+        background-position: 68% 0%
+    }
+
+    50% {
+        background-position: 33% 100%
+    }
+
+    100% {
+        background-position: 68% 0%
+    }
+}
+
+@-moz-keyframes gradientEffect {
+    0% {
+        background-position: 68% 0%
+    }
+
+    50% {
+        background-position: 33% 100%
+    }
+
+    100% {
+        background-position: 68% 0%
+    }
+}
+
+@keyframes gradientEffect {
+    0% {
+        background-position: 68% 0%
+    }
+
+    50% {
+        background-position: 33% 100%
+    }
+
+    100% {
+        background-position: 68% 0%
+    }
+}
