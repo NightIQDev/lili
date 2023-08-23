@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/lili/static/css/main.c87b3cbf.css",
-    "main.js": "/lili/static/js/main.c6cae2f4.js",
+    "main.js": "/lili/static/js/main.368116c0.js",
     "static/js/787.506dd8ed.chunk.js": "/lili/static/js/787.506dd8ed.chunk.js",
     "static/media/Outfit-VariableFont_wght.ttf": "/lili/static/media/Outfit-VariableFont_wght.00c2ed1a3bf798b0da27.ttf",
     "static/media/Relieve.ttf": "/lili/static/media/Relieve.d038eb0919da68a6e2dd.ttf",
     "index.html": "/lili/index.html",
     "main.c87b3cbf.css.map": "/lili/static/css/main.c87b3cbf.css.map",
-    "main.c6cae2f4.js.map": "/lili/static/js/main.c6cae2f4.js.map",
+    "main.368116c0.js.map": "/lili/static/js/main.368116c0.js.map",
     "787.506dd8ed.chunk.js.map": "/lili/static/js/787.506dd8ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c87b3cbf.css",
-    "static/js/main.c6cae2f4.js"
+    "static/js/main.368116c0.js"
   ]
 }
