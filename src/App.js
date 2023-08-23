@@ -1,4 +1,4 @@
-import 'https://kit.fontawesome.com/120031ba31.js'
+
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
           <a href="https://www.tiktok.com/@oficialmyfood" ><i class="fa-brands fa-tiktok text-4xl icons-colors"></i></a>
         </div>
       </div >
-
+      <script src="https://kit.fontawesome.com/a076d05399.js"></script>
       
     </div >
   );
