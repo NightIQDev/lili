@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/lili/static/css/main.4c1a1c1a.css",
-    "main.js": "/lili/static/js/main.cb1b3545.js",
-    "static/js/787.506dd8ed.chunk.js": "/lili/static/js/787.506dd8ed.chunk.js",
-    "static/media/Outfit-VariableFont_wght.ttf": "/lili/static/media/Outfit-VariableFont_wght.00c2ed1a3bf798b0da27.ttf",
-    "static/media/Relieve.ttf": "/lili/static/media/Relieve.d038eb0919da68a6e2dd.ttf",
-    "index.html": "/lili/index.html",
-    "main.4c1a1c1a.css.map": "/lili/static/css/main.4c1a1c1a.css.map",
-    "main.cb1b3545.js.map": "/lili/static/js/main.cb1b3545.js.map",
-    "787.506dd8ed.chunk.js.map": "/lili/static/js/787.506dd8ed.chunk.js.map"
+    "main.css": "/static/css/main.795f3f4b.css",
+    "main.js": "/static/js/main.a94597de.js",
+    "static/js/787.506dd8ed.chunk.js": "/static/js/787.506dd8ed.chunk.js",
+    "static/media/Outfit-VariableFont_wght.ttf": "/static/media/Outfit-VariableFont_wght.00c2ed1a3bf798b0da27.ttf",
+    "static/media/Relieve.ttf": "/static/media/Relieve.d038eb0919da68a6e2dd.ttf",
+    "index.html": "/index.html",
+    "main.795f3f4b.css.map": "/static/css/main.795f3f4b.css.map",
+    "main.a94597de.js.map": "/static/js/main.a94597de.js.map",
+    "787.506dd8ed.chunk.js.map": "/static/js/787.506dd8ed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c1a1c1a.css",
-    "static/js/main.cb1b3545.js"
+    "static/css/main.795f3f4b.css",
+    "static/js/main.a94597de.js"
   ]
 }
