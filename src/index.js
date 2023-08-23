@@ -9,7 +9,7 @@ root.render(
   <React.StrictMode>
     <div>
       <App/>
-      <script src='https://kit.fontawesome.com/120031ba31.js'/>
+      
     </div>
   </React.StrictMode>
 );
