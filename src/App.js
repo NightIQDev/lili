@@ -1,4 +1,4 @@
-import 'https://kit.fontawesome.com/120031ba31.js'
+
 
 function App() {
   return (
