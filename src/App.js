@@ -1,5 +1,3 @@
-
-
 function App() {
   return (
     <div className="flex flex-col justify-center h-screen">
@@ -14,7 +12,7 @@ function App() {
           <a href="https://www.tiktok.com/@oficialmyfood" ><i class="fa-brands fa-tiktok text-4xl icons-colors"></i></a>
         </div>
       </div >
-      <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+      
       
     </div >
   );
