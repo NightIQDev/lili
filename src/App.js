@@ -1,4 +1,4 @@
-
+import 'https://kit.fontawesome.com/120031ba31.js'
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
         </div>
       </div >
 
-      <script src='https://kit.fontawesome.com/120031ba31.js'/>
+      
     </div >
   );
 }
